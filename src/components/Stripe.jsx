@@ -9,5 +9,5 @@ const Stripe = ({ val }) => {
         </div>
     );
 };
-
+ 
 export default Stripe;
