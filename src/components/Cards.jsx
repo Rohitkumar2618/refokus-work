@@ -13,7 +13,7 @@ const Cards = () => {
 
               <Card width={"basis-1/3"} start={false} para={true}  />
               <Card width={"basis-2/3"} start={true} para={false} hover={"bg-violet-500"} />
-    </div>/
+    </div>
       
     </div>
   )

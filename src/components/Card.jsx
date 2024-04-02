@@ -1,6 +1,6 @@
-import React from "react";
+
 import { IoIosArrowRoundForward } from "react-icons/io";
-import { Button } from "./Button";
+
 
 const Card = ({ width, start, para, hover }) => {
     return (
